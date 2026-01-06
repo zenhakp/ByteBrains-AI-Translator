@@ -1,10 +1,10 @@
-#ByteBrains Translator
+ByteBrains Translator
 
 ByteBrains Translator is a **multi-modal AI translation app** built with **Streamlit** that translates **text, documents, audio, and images** across multiple languages using modern large language models.
 
 ---
 
-##Features
+Features
 
 * Text, document, audio & image translation
 * OCR-based image text extraction
@@ -15,7 +15,7 @@ ByteBrains Translator is a **multi-modal AI translation app** built with **Strea
 
 ---
 
-##Tech Stack
+Tech Stack
 
 * Python, Streamlit
 * Large Language Models (LLMs)
@@ -25,7 +25,7 @@ ByteBrains Translator is a **multi-modal AI translation app** built with **Strea
 
 ---
 
-##Run Locally
+Run Locally
 
 ```bash
 pip install -r requirements.txt
