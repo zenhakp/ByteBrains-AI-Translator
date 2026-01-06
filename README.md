@@ -1,10 +1,10 @@
-ByteBrains Translator
+## ByteBrains Translator
 
 ByteBrains Translator is a **multi-modal AI translation app** built with **Streamlit** that translates **text, documents, audio, and images** across multiple languages using modern large language models.
 
 ---
 
-Features
+## Features
 
 * Text, document, audio & image translation
 * OCR-based image text extraction
@@ -15,7 +15,7 @@ Features
 
 ---
 
-Tech Stack
+## Tech Stack
 
 * Python, Streamlit
 * Large Language Models (LLMs)
@@ -25,7 +25,7 @@ Tech Stack
 
 ---
 
-Run Locally
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
@@ -34,10 +34,6 @@ streamlit run app.py
 
 ---
 
-##License
+## License
 
-MIT License
-
----
-
-If you want, I can make it **even shorter (5–6 lines)** or **add screenshots + badges** for GitHub polish.
+This project is licensed under the MIT License.
